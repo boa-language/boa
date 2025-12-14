@@ -1,0 +1,1 @@
+@main def boa = println("Hello, world")
